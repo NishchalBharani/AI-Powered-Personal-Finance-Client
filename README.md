@@ -14,7 +14,7 @@ A full-stack web application to manage personal finances with transaction tracki
 - **Security**: JWT, AES-encrypted cookies, CORS
 
 ## Setup
-1. Clone the repo: `git clone https://github.com/your-username/personal-finance-dashboard.git`
+1. Clone the repo: `git clone https://github.com/NishchalBharani/personal-finance-dashboard.git`
 2. Install dependencies:
    - Backend: `cd server && npm install`
    - Frontend: `cd client-vite && npm install`
